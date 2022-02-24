@@ -1,2 +1,2 @@
 # Zip-Code-Finder
-Zip conde finder using Node
+Zip code finder using Node/ React
