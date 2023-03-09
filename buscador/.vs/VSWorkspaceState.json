@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\services"
   ],
-  "SelectedNode": "\\src\\styles.css",
   "PreviewInSolutionExplorer": false
 }
